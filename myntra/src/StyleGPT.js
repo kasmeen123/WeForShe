@@ -15,7 +15,7 @@ const Background = styled(Box)`
 const StyleGPTPage = () => {
   return (
     <Background>
-      <Typography variant="h1">Welcome to StyleGPT</Typography>
+      <Typography variant="h1">Welcome to MynStyle</Typography>
     </Background>
   );
 };
