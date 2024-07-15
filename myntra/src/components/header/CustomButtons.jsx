@@ -56,7 +56,7 @@ const CustomButtons = () => {
       <Typography>BEAUTY</Typography>
       <StyledLinkContainer>
         <Superscript>NEW</Superscript>
-        <StyledLink component="a" href="https://mediafiles.botpress.cloud/527502e3-c141-4317-baf5-89b97c78d6c7/webchat/bot.html">StyleGPT</StyledLink>
+        <StyledLink component="a" href="https://mediafiles.botpress.cloud/527502e3-c141-4317-baf5-89b97c78d6c7/webchat/bot.html">MynStyle</StyledLink>
       </StyledLinkContainer>
     </Wrapper>
   );
