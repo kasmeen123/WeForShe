@@ -128,48 +128,4 @@ npm start</code></pre>
         <h2>Workflow</h2>
         <h3>Example Workflow</h3>
         <ol>
-            <li><strong>User Registration:</strong>
-                <p>Users sign up for an account by providing necessary details like name, email, and password. User data is stored in the MongoDB database.</p>
-            </li>
-            <li><strong>Login:</strong>
-                <p>Registered users can log in using their email and password. Authentication tokens are generated and managed using JSON Web Tokens (JWT).</p>
-            </li>
-            <li><strong>Location Access:</strong>
-                <p>Upon login, the application requests access to the user's location via the Geolocation API. The user's location data is sent to the backend for processing.</p>
-            </li>
-            <li><strong>Data Fetching:</strong>
-                <p>The backend fetches relevant fashion data from the Fashion Data API based on the user's location. Festival data is also retrieved to align recommendations with upcoming local events.</p>
-            </li>
-            <li><strong>Filtering and Sorting:</strong>
-                <p>The backend processes the fetched data, filtering and sorting clothing items based on location and festival relevance. The processed data is sent to the frontend.</p>
-            </li>
-            <li><strong>Display:</strong>
-                <p>The frontend renders the recommended clothing items using Material-UI components. Recommendations are presented in a visually appealing and user-friendly format.</p>
-            </li>
-            <li><strong>User Interactions:</strong>
-                <p>Users can interact with the recommendations by clicking on items to view more details. Options to save items to a wishlist or proceed to purchase are provided.</p>
-            </li>
-            <li><strong>Updates:</strong>
-                <p>The application periodically updates recommendations based on changes in location or upcoming festivals. Users receive notifications for new and relevant recommendations.</p>
-            </li>
-            <li><strong>MynStyle Integration:</strong>
-                <p>Users can ask fashion-related queries in the MynStyle chatbot interface. The Botpress-powered chatbot provides instant answers and fashion advice based on the user's questions.</p>
-            </li>
-        </ol>
-
-        <h2>Credits</h2>
-        <ul>
-            <li><strong>Project Lead:</strong> [Your Name]</li>
-            <li><strong>Contributors:</strong> [List of contributors]</li>
-            <li><strong>Special Thanks:</strong> [Any special mentions]</li>
-        </ul>
-
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-    </div>
-
-    <script>
-        // JavaScript for any interactive elements can be added here
-    </script>
-</body>
-</html>
+            <li><strong>User Registration:</strong
