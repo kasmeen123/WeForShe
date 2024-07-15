@@ -1,4 +1,4 @@
-# Location-Based Clothing Recommendation System
+# Identifying Regional Fashion Trends
 
 This project is a cutting-edge recommendation platform that suggests clothing items tailored to the user's location and upcoming festivals. It leverages user geolocation data to provide personalized fashion recommendations that align with regional preferences and cultural events.
 
