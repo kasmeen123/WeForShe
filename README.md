@@ -45,10 +45,9 @@ This project is a cutting-edge recommendation platform that suggests clothing it
    ```bash
    npm start
 
-## How to Use the Project
+## How to Use the Project:
 
 1. **Open the application:** Navigate to [http://localhost:3000](http://localhost:3000) in your web browser.
 
-2. **Register/Login:** Create an account or log in if you already have one.
 
-3. **Use MynStyle:** Ask fashion-related queries in the chatbot interface to get instant answers
+
