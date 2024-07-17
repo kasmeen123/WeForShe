@@ -49,5 +49,5 @@ This project is a cutting-edge recommendation platform that suggests clothing it
 
 1. **Open the application:** Navigate to [http://localhost:3000](http://localhost:3000) in your web browser.
 
-
+![Screenshot of the Myntra Clone](/Screenshot 2024-07-15 150400.png)
 
