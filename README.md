@@ -65,5 +65,5 @@ This project is a cutting-edge recommendation platform that suggests clothing it
 <p float="left">
   <img src="/data2.png" alt="Screenshot of the Myntra Clone" width="45%" />
   <span style="display: inline-block; width: 20px;"></span> <!-- Adjust width for spacing -->
-  <img src="/data3.png" alt="Screenshot of the Myntra Clone" width="45%" />
+  <img src="/data4.png" alt="Screenshot of the Myntra Clone" width="45%" />
 </p>
