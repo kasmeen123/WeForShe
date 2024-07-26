@@ -53,9 +53,10 @@ This project is a cutting-edge recommendation platform that suggests clothing it
 
 ![Screenshot of the Myntra Clone](/Screenshot2.png)
 
-![Screenshot of the Myntra Clone](/chatbot1.jpg)
-
-![Screenshot of the Myntra Clone](/chatbot2.jpg)
+<p float="left">
+  <img src="/chatbot1.jpg" alt="Screenshot of the Myntra Clone" width="45%" />
+  <img src="/chatbot2.jpg" alt="Screenshot of the Myntra Clone" width="45%" />
+</p>
 
 ![Screenshot of the Myntra Clone](/data1.png)
 
