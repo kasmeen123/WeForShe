@@ -1,4 +1,4 @@
-# Identifying Regional Fashion Trends
+# Fashion Trend Analysis And Recommendation System
 
 This project is a cutting-edge recommendation platform that suggests clothing items tailored to the user's location and upcoming festivals. It leverages user geolocation data to provide personalized fashion recommendations that align with regional preferences and cultural events.
 
@@ -52,3 +52,13 @@ This project is a cutting-edge recommendation platform that suggests clothing it
 ![Screenshot of the Myntra Clone](/Screenshot1.png)
 
 ![Screenshot of the Myntra Clone](/Screenshot2.png)
+
+![Screenshot of the Myntra Clone](/chatbot1.jpg)
+
+![Screenshot of the Myntra Clone](/chatbot2.jpg)
+
+![Screenshot of the Myntra Clone](/data1.png)
+
+![Screenshot of the Myntra Clone](/data2.png)
+
+![Screenshot of the Myntra Clone](/data3.png)
